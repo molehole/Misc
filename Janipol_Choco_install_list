@@ -1,0 +1,11 @@
+cinst googlechrome -y
+cinst firefox -y
+cinst 7zip.install -y
+cinst virtualclonedrive -y
+cinst jre8 -y
+cinst sharex -y
+cinst cccp -y
+cinst tightvnc -y
+cinst paint.net -y
+cinst adobereader -y
+cinst libreoffice -y
